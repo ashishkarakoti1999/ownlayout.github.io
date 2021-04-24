@@ -1,0 +1,340 @@
+*
+{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+.carousel-height
+{
+	height:700px!important;
+}
+
+.text-carousel
+{
+	font-size:55px!important;
+	margin-top:-400px;
+	margin-left:-700px;
+	font-weight: 500;
+	font-style:italic;
+	color:#fff;
+}
+
+.text-carousel1
+{
+	font-size:18px!important;
+	margin-left:-970px;
+	font-style:italic;
+	color:#fff;
+}
+
+.text-carousel-res
+{
+	font-size:55px!important;
+	margin-top:-400px;
+	margin-left:-700px;
+	font-weight: 500;
+	font-style:italic;
+	color:#fff;
+	display: none;
+}
+
+.text-carousel2
+{
+	font-size:18px!important;
+	margin-left:-745px;
+	margin-top:-40px;
+	font-weight:700!important;
+	font-style:italic;
+	font-weight: bold;
+	color:#fff;
+}
+
+.create-button
+{
+	background: yellow;
+	color:black;
+	font-size:18px;
+	font-weight:450;
+	border:1px solid yellow;
+	border-radius: 30px!important;
+	padding:10px 20px 10px 20px;
+	margin-left:-945px;
+}
+
+.heading1
+{
+	font-size:25px;
+	font-weight: 500;
+}
+
+.text1
+{
+	font-size: 16px;
+	padding-top: 10px;
+}
+
+.get-button
+{
+	background: #011120!important;
+	color:grey;
+	font-size:15px;
+	font-weight:450;
+	border:1px solid #011120;
+	border-radius: 30px!important;
+	padding:5px 20px 5px 20px;
+}
+
+.text-none
+{
+	text-decoration: none!important;
+}
+
+.heading2
+{
+	font-size:25px;
+	font-weight: 500;
+	padding-left:95px;
+}
+
+.text2
+{
+	font-size: 16px;
+	padding: 10px 0px 0px 95px!important;
+}
+
+
+.get-button1
+{
+	background: #011120!important;
+	color:grey;
+	font-size:15px;
+	font-weight:450;
+	border:1px solid #011120;
+	border-radius: 30px!important;
+	padding:5px 20px 5px 20px;
+	margin-left:95px;
+}
+
+
+
+
+
+.heading3
+{
+	font-size:22px;
+	font-weight: 500;
+	text-align: center;
+	padding-top:50px	;
+}
+
+.card-box
+{
+	border:1px solid lightblue;
+
+}
+
+.web
+{
+	font-size:16px;
+	color:blue;
+	text-align: center;
+	padding-top:10px;
+	font-weight:600;
+}
+
+.font-text
+{
+	font-size:15px!important;
+}
+
+.font1
+{
+	color:blue;
+	font-size:15px;
+	font-weight:500;
+}
+
+.get-button3
+{
+	background:#2159AD!important;
+	color:#fff;
+	font-size:15px;
+	font-weight:450;
+	border:1px solid #2159AD;
+	border-radius: 30px!important;
+	padding:5px 20px 5px 20px;
+	position: absolute;
+	margin-top: -20px;
+	margin-left:-60px;
+	}
+
+.para
+{
+	font-size:22px;
+	font-weight: 600;
+	padding-top: 50px;
+}
+
+.view
+{
+	background:#011120!important;
+	color:#fff;
+	font-size:15px;
+	font-weight:450;
+	border:1px solid #011120;
+	border-radius: 30px!important;
+	padding:5px 20px 5px 20px;
+	position: relative;
+	margin-top: 50px;
+}
+
+.card-box1
+{
+	background: #217AD8;
+	color:#fff;
+	border-radius: 10px;
+	border:1px solid #217AD8;
+
+}
+
+.hot
+{
+	background: red;
+	color:#fff;
+	border:1px solid red;
+	border-radius: 5px;
+	font-size:10px;
+	padding:1px 10px 1px 10px;
+
+}
+
+.heading4
+{
+	font-size:22px;
+	text-align: center;
+	font-weight:700;
+	color:grey;
+}
+
+.text-card
+{
+	font-size:16px;
+	font-weight: 600;
+}
+
+.learn
+{
+	background:#fff!important;
+	color:#217AD8;
+	font-size:14px;
+	font-weight:450;
+	border:1px solid #217AD8;
+	border-radius: 7px!important;
+	padding:5px 7px 5px 7px;
+	margin-top: 50px;
+	margin-left:26px
+}
+
+.card-box2
+{
+	background:#011120;
+	color:#fff;
+	border-radius: 10px;
+	border:1px solid #217AD8;
+
+}
+
+.hot1
+{
+	background:#217AD8;
+	color:#fff;
+	border:1px solid #217AD8;
+	border-radius: 5px;
+	font-size:10px;
+	padding:1px 10px 1px 10px;
+
+}
+
+.card-box3
+{
+	background:orange;
+	color:#fff;
+	border-radius: 10px;
+	border:1px solid #217AD8;
+
+}
+
+.hot2
+{
+	background:#011120;
+	color:#fff;
+	border:1px solid #011120;
+	border-radius: 5px;
+	font-size:10px;
+	padding:1px 10px 1px 10px;
+
+}
+
+.domain
+{
+	font-size: 22px;
+	font-weight: 600;
+	color:#fff;
+}
+
+.search
+{
+	border:1px solid #217AD8; 
+	border-radius: 30px;
+	width:300px;
+	height:35px;
+	color:#217AD8;
+	padding-left:5px;
+}
+
+
+.search-now
+{
+	background:#FDA7EA!important;
+	color:#fff;
+	font-size:15px;
+	font-weight:450;
+	border:1px solid #FDA7EA;
+	border-radius: 30px!important;
+	padding:5px 30px 5px 30px;
+}
+
+.head-foot
+{
+	font-size:20px;
+	color:blue;
+	font-weight: bold
+}
+
+.res-text
+{
+color:blue;
+ font-weight:bold
+ font-size:36px;
+}
+
+
+.foot li
+{
+  display:block;
+  font-size: 15px;
+  padding:7px 0px 7px 0px;
+ color:#fff;
+}
+
+.footer-icon
+{
+	color:grey;
+}
+
+.link
+{
+  text-decoration:none!important; 
+  color:#fff!important;
+}
